@@ -1,0 +1,3 @@
+A two player two card poker game with a money system. The players can bet or fold depending on their cards.
+Their is also a way to change the display of the game.
+This game was developed with JavaFX, Java and tested with JUnit tests.
